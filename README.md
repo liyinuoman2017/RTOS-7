@@ -252,15 +252,15 @@ typedef unsigned long UBaseType_t;
 	#define portGET_HIGHEST_PRIORITY( uxTopPriority, uxReadyPriorities ) uxTopPriority = ( 31UL - ( uint32_t ) __clz( ( uxReadyPriorities ) ) )
 ```
 
-> <font color=red>**未完待续…
-
-  实时操作系统系列将持续更新
-  
-创作不易希望朋友们点赞，转发，评论，关注。
-  
-您的点赞，转发，评论，关注将是我持续更新的动力
-  
-作者：李巍
-  
-Github：liyinuoman2017**
+> 未完待续…
+> 
+> 实时操作系统系列将持续更新
+> 
+> 创作不易希望朋友们点赞，转发，评论，关注。
+> 
+> 您的点赞，转发，评论，关注将是我持续更新的动力
+> 
+> 作者：李巍
+> 
+> Github：liyinuoman2017
   
